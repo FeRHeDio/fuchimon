@@ -1,4 +1,4 @@
-# fuchimon
+# FuchiMon
 What about voting for the performance of the monday game players?
 
 The idea behind is to let players rate themselves in any monday match.
